@@ -1,3 +1,22 @@
+# C3PO – Personal AI Stack
+
+**C3PO** is my barely-working, bash-script-welded home AI assistant.  
+It’s clunked together from Coleam00’s excellent starter kit, and then lovingly sabotaged by my own trial-and-error fixes, faulty wiring, and ambitious pipeline plans.
+
+This isn’t clean code—it’s a crash course. But it’s teaching me DevOps, it’s scraping answers, and someday soon it’ll be scheduling, drafting, replying, and nudging *me* to work.
+
+If you’re looking for elegance, look elsewhere. If you want to see a stack learn alongside its builder, welcome aboard.
+
+---
+
+## ⚙️ Host Machine Specs
+
+- **CPU:** Intel Core i5-10400F (6 cores / 12 threads @ 2.90GHz)  
+- **RAM:** 16 GB DDR4  
+- **Disk:** 476 GB NVMe SSD  
+- **GPU:** NVIDIA RTX 2060 SUPER (8 GB)  
+- **OS:** Ubuntu 22.04 (Server, CLI-only)
+
 # Self-hosted AI Package
 
 **Self-hosted AI Package** is an open, docker compose template that
